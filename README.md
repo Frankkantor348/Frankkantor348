@@ -1,6 +1,7 @@
 ¡Hola! Soy desarrollador de software Fullstack y estudiante de Ingeniería de Software. Me apasiona construir aplicaciones robustas, escalables y eficientes, diseñando soluciones basadas en la arquitectura de microservicios y cuidando tanto la lógica del backend como la experiencia del usuario.
 
 Además del desarrollo, tengo experiencia gestionando e integrando despliegues en la nube con Microsoft Azure y dedico mi tiempo libre a profundizar en el mundo de la ciberseguridad y el hacking ético.
+
 Tecnologías y herramientas
 
     Arquitectura: Microservicios, Clean Architecture.
