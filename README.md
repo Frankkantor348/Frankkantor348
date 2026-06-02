@@ -6,7 +6,7 @@ Tecnologías y herramientas
 
     Arquitectura: Microservicios, Clean Architecture.
 
-    Backend: .NET (C#).
+    Backend: .NET CQRS Commands (C#).
 
     Cloud & DevOps: Microsoft Azure (Deployments & Cloud Services).
 
